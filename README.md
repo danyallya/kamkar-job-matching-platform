@@ -17,9 +17,8 @@ A simple web-based platform built with HTML, CSS, and jQuery to connect employer
 ## 📁 Project Structure
 kamkar-job-matching-platform/
 ├── index.html # Landing page
-├── signup.html # Registration form
-├── login.html # Login form
-├── dashboard.html # User dashboard
+├── search.html # serach form
+
 ├── css/ # Stylesheets
 ├── js/ # JavaScript/jQuery files
 └── assets/ # Images and other media
